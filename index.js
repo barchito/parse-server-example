@@ -37,6 +37,9 @@ var dashboard = new ParseDashboard({
     }, {
       "user": "chape",
       "pass": "crack"
+    }, {
+      "user": "mauro",
+      "pass": "esuncrack"
     }],
     "useEncryptedPasswords": false
 }, true);
